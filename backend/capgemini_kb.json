@@ -1,0 +1,20 @@
+{
+  "about": "Capgemini is a global leader in consulting, technology services, and digital transformation, headquartered in Paris, France.",
+  "founded": "1967",
+  "founder": "Serge Kampf",
+  "services": [
+    "Consulting",
+    "Cloud & AI",
+    "Digital Engineering",
+    "Cybersecurity",
+    "Enterprise Management"
+  ],
+  "industries": [
+    "Banking",
+    "Automotive",
+    "Healthcare",
+    "Retail",
+    "Public Sector"
+  ],
+  "india": "Capgemini has a major presence in India with multiple delivery centers."
+}
